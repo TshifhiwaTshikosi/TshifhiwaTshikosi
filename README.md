@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-Lover-9b59b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Always-Learning-f39c12?style=for-the-badge" />
 </p>
 
