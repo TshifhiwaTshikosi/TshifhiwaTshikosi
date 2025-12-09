@@ -12,16 +12,17 @@
 <!-- ABOUT ME -->
 ## ✨ About Me
 
-I am a **Data Analyst** passionate about turning raw data into actionable insights through  
-**SQL, Power BI, Excel, Looker Studio, and Python fundamentals**.
+I am a **Data Analyst** with **1 year of practical experience** gained through real-world case studies, projects, and hands-on analytics work.  
+I specialize in transforming datasets into insights using **SQL, Power BI, Excel, Looker Studio, and Python fundamentals**.
 
 I enjoy:
 - Building clean and interactive dashboards  
 - Solving data problems with analytics and logic  
 - Designing efficient data models  
-- Transforming datasets into meaningful business insights  
+- Turning raw datasets into meaningful business insights  
 
-Currently learning **Python**, **Machine Learning**, and **Cloud Analytics** to level up my technical toolkit.
+Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics**.
+
 
 ---
 
@@ -44,13 +45,10 @@ Currently learning **Python**, **Machine Learning**, and **Cloud Analytics** to 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href=" www.linkedin.com/in/tshifhiwa-tshikosi-484219213">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href=" www.linkedin.com/in/tshifhiwa-tshikosi-484219213">LinkedIn</a> •
+  <a href=" https://github.com/tshikositshifhiwa4-cmyk">GitHub</a> •
 </p>
+
 
 ---
 
