@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Tshifhiwa Tshikosi</strong></h1>
-<h3 align="center">Data Analyst • BI Developer • Aspiring Data Scientist</h3>
+<h3 align="center">Data Analyst • BI Developer • Business Analyst • Aspiring Data Scientist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />
@@ -34,7 +34,6 @@ Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-006272?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Security+-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
@@ -46,6 +45,7 @@ Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics
 
 <p align="center">
   <a href=" www.linkedin.com/in/tshifhiwa-tshikosi-484219213">LinkedIn</a> •
+  
   <a href=" https://github.com/tshikositshifhiwa4-cmyk">GitHub</a> •
 </p>
 
